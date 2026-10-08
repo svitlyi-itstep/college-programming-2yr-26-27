@@ -77,7 +77,7 @@ class Program
 2. Оберіть **Add → Class...** (або натисніть `Shift + Alt + C`)
 3. Введіть ім'я класу, наприклад `Student` (розширення `.cs` Visual Studio додасть сама), і натисніть **Add**
 
-![add-class](images/l3_i1.png)
+![Контекстне меню проєкту в Solution Explorer: пункт Add → Class...](images/l3_i1.png)
 
 Visual Studio створить файл приблизно такого вигляду (залежно від версії зверху можуть бути ще рядки `using ...` — їх можна видалити):
 
@@ -126,7 +126,7 @@ College/
 
 Назви папок — англійською, у PascalCase, зазвичай у множині: `Models`, `Helpers`, `Services`.
 
-![proj-structure](images/l3_i2.png)
+![Структура проєкту в Solution Explorer: папки Helpers і Models з файлами класів, Program.cs у корені](images/l3_i2.png)
 
 ---
 
