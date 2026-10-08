@@ -1,7 +1,7 @@
 # 💻 ОСНОВИ ПРОГРАМУВАННЯ
 
 ![Static Badge](https://img.shields.io/badge/%D0%86%D0%86_%D0%9A%D0%A3%D0%A0%D0%A1-yellow?style=for-the-badge)
-[![Static Badge](https://img.shields.io/badge/COLLEGE%20IT%20STEP%20DNIPRO-purple?style=for-the-badge)](https://dnipro-college.itstep.org/)
+[![Static Badge](https://img.shields.io/badge/IT%20STEP%20COLLEGE%20DNIPRO-purple?style=for-the-badge)](https://dnipro-college.itstep.org/)
 ![Static Badge](https://img.shields.io/badge/2026--2027-blue?style=for-the-badge)
 
 
@@ -16,3 +16,13 @@
 ## [🎯 Самостійні завдання](/Homeworks/)
 1. [Створення класу "Банківський рахунок"](/Homeworks/Homework_1.md)
 2. [Практика проєктування та реалізації класів](/Homeworks/Homework_2.md)
+
+---
+
+<p align="center">
+  <a href="https://github.com/svitlyi-itstep"><img src="assets/badges/author.svg" alt="Автор курсу: Андрій Світлий"></a>
+  &nbsp;
+  <a href="https://dnipro-college.itstep.org/"><img src="assets/badges/college.svg" alt="Розроблено для: IT STEP College Dnipro"></a>
+  &nbsp;
+  <a href="https://claude.com/claude-code"><img src="assets/badges/claude.svg" alt="У співавторстві з: Claude Code"></a>
+</p>
