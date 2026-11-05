@@ -13,6 +13,7 @@
 3. [Організація проєкту: кілька файлів](/Lessons/3_Project_Structure.md)
 4. [Зв'язки між об'єктами: агрегація та композиція](/Lessons/4_Object_Relations.md)
 5. [Наслідування: базовий та похідні класи](/Lessons/5_Inheritance.md)
+6. [Поліморфізм: virtual, override та абстрактні класи](/Lessons/6_Polymorphism.md)
 
 ## [🎯 Самостійні завдання](/Homeworks/)
 1. [Створення класу "Банківський рахунок"](/Homeworks/Homework_1.md)
