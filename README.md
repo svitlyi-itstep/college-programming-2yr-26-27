@@ -8,12 +8,19 @@
 ---
 
 ## [📃 Уроки](/Lessons/)
+
+**Модуль 1. Об'єктно-орієнтоване програмування**
+
 1. [Вступ до ООП: класи, об'єкти та конструктор](/Lessons/1_Intro_OOP.md)
 2. [Інкапсуляція: модифікатори доступу та властивості](/Lessons/2_Encapsulation.md)
 3. [Організація проєкту: кілька файлів](/Lessons/3_Project_Structure.md)
 4. [Зв'язки між об'єктами: агрегація та композиція](/Lessons/4_Object_Relations.md)
 5. [Наслідування: базовий та похідні класи](/Lessons/5_Inheritance.md)
 6. [Поліморфізм: virtual, override та абстрактні класи](/Lessons/6_Polymorphism.md)
+
+**Модуль 2. Віконні програми: Windows Forms**
+
+7. [Вступ до Windows Forms](/Lessons/7_Intro_WinForms.md)
 
 ## [🎯 Самостійні завдання](/Homeworks/)
 1. [Створення класу "Банківський рахунок"](/Homeworks/Homework_1.md)
