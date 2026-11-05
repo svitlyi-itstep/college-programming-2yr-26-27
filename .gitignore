@@ -7,6 +7,9 @@ CLAUDE.local.md
 **/.claude/
 .mcp.json
 
+# ===== Teacher's private materials (plans, tests, answer keys) =====
+_Plan/
+
 # ===== OS =====
 Thumbs.db
 ehthumbs.db
