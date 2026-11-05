@@ -21,6 +21,7 @@
 **Модуль 2. Віконні програми: Windows Forms**
 
 7. [Вступ до Windows Forms](/Lessons/7_Intro_WinForms.md)
+8. [Події та базові елементи керування](/Lessons/8_Events_Controls.md)
 
 ## [🎯 Самостійні завдання](/Homeworks/)
 1. [Створення класу "Банківський рахунок"](/Homeworks/Homework_1.md)
