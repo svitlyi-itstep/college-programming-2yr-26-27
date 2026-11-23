@@ -23,6 +23,7 @@
 7. [Вступ до Windows Forms](/Lessons/7_Intro_WinForms.md)
 8. [Події та базові елементи керування](/Lessons/8_Events_Controls.md)
 9. [Введення та перевірка даних](/Lessons/9_Input_Validation.md)
+10. [Елементи вибору](/Lessons/10_Choice_Controls.md)
 
 ## [🎯 Самостійні завдання](/Homeworks/)
 1. [Створення класу "Банківський рахунок"](/Homeworks/Homework_1.md)
